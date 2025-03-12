@@ -1,0 +1,9 @@
+name: MLType-NST
+channels:
+  - conda-forge
+dependencies:
+  - conda-forge::tensorflow
+  - conda-forge::tensorflow-hub
+  - conda-forge::matplotlib
+  - conda-forge::numpy
+prefix: /Users/rony/.pyenv/versions/miniforge3-latest/envs/MLType-NST
